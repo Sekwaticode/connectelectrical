@@ -5969,7 +5969,7 @@ a.close.disabled {
   transform: none;
 }
 
-.modal.modal-static .modal-dialog { 
+.modal.modal-static .modal-dialog {
   transform: scale(1.02);
 }
 
